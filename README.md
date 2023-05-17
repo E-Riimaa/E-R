@@ -1,5 +1,5 @@
 Win/ubuntu kood mis leiab piltide koordinaadid.
-On kasutud ChatGpt abi
+On kasutud ChatGpt abi.
 Lingid on vajalikud ilma selleta kood ei tööta .
 
 [ExifTool](https://exiftool.org/)
