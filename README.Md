@@ -1,4 +1,4 @@
-[ExifTool](https://exiftools.org)
+[ExifTool](https://exiftool.org/)
 
 https://chat.openai.com/?model=text-davinci-002-render-sha
 
